@@ -1,0 +1,2 @@
+git remote add origin https://github.com/atomcode24/mmdet_visdron.git
+git push -u origin master
